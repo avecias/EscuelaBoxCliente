@@ -1,0 +1,28 @@
+com.mx.ipn.app.modelo.squirrel.Escuela
+[idescuela = 1]
+[nombre = Box school]
+
+com.mx.ipn.app.modelo.squirrel.Escuela
+[idescuela = 2]
+[nombre = Segunda Escuela]
+
+com.mx.ipn.app.modelo.squirrel.Escuela
+[idescuela = 3]
+[nombre = Escuela Tepito]
+
+com.mx.ipn.app.modelo.squirrel.Escuela
+[idescuela = 4]
+[nombre = Mas que Box]
+
+com.mx.ipn.app.modelo.squirrel.Escuela
+[idescuela = 5]
+[nombre = PrimeraEscuela]
+
+com.mx.ipn.app.modelo.squirrel.Escuela
+[idescuela = 6]
+[nombre = Tercera Escuela]
+
+com.mx.ipn.app.modelo.squirrel.Escuela
+[idescuela = 7]
+[nombre = Cuarta Escuela]
+

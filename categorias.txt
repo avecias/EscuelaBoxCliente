@@ -1,0 +1,35 @@
+com.mx.ipn.app.modelo.squirrel.Categoria
+[idcategoria = 1]
+[nombre = welter]
+[rango = 65-69]
+
+com.mx.ipn.app.modelo.squirrel.Categoria
+[idcategoria = 2]
+[nombre = superligero]
+[rango = 63-64]
+
+com.mx.ipn.app.modelo.squirrel.Categoria
+[idcategoria = 3]
+[nombre = superpluma]
+[rango = 59-62]
+
+com.mx.ipn.app.modelo.squirrel.Categoria
+[idcategoria = 4]
+[nombre = supergallo]
+[rango = 55-58]
+
+com.mx.ipn.app.modelo.squirrel.Categoria
+[idcategoria = 5]
+[nombre = supermosca]
+[rango = 52-54]
+
+com.mx.ipn.app.modelo.squirrel.Categoria
+[idcategoria = 6]
+[nombre = supermoscaligero]
+[rango = 50-51]
+
+com.mx.ipn.app.modelo.squirrel.Categoria
+[idcategoria = 7]
+[nombre = minimo]
+[rango = 47-49]
+

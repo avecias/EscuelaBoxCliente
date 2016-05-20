@@ -1,0 +1,27 @@
+com.mx.ipn.app.modelo.squirrel.Alumno
+[idalumno = 1]
+[nombre = Valentin]
+[paterno = Avecias]
+[materno = Angeles]
+[boleta = 2012410040]
+[idescuela = 1]
+[idcategoria = 1]
+
+com.mx.ipn.app.modelo.squirrel.Alumno
+[idalumno = 2]
+[nombre = Juan]
+[paterno = Hernandez]
+[materno = Hernandez]
+[boleta = 2009340441]
+[idescuela = 2]
+[idcategoria = 1]
+
+com.mx.ipn.app.modelo.squirrel.Alumno
+[idalumno = 3]
+[nombre = Jose]
+[paterno = Lopez]
+[materno = Lopez]
+[boleta = 2013419933]
+[idescuela = 1]
+[idcategoria = 3]
+
